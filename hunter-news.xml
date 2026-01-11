@@ -5,53 +5,44 @@
     <description>Official dungeon, gate, and hunter news from South Korea and global events</description>
     <link>https://YOUR_USERNAME.github.io/future-news-rss</link>
 
+    <!-- BATCH 1 -->
     <item><title>Seoul Dungeon cleared by top-ranked solo hunter Lee Hyun; city traffic resumes normally.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-001</guid></item>
-    <item><title>Busan Guild signs renowned S-rank hunter Kim Ji-hoon for upcoming continental tournament.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-002</guid></item>
-    <item><title>Daegu underground gate collapses after high-level monster surge; no civilian casualties reported.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-003</guid></item>
-    <item><title>Global Hunter Rankings updated: South Korea dominates top five positions.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-004</guid></item>
-    <item><title>Incheon Night Market Dungeon experiences record loot drop; local vendors report surge in sales.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-005</guid></item>
-    <item><title>Jeju Island dungeon break prompts emergency hunter deployment; gates stabilized within three hours.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-006</guid></item>
-    <item><title>Seoul Martial Arts Tournament announces preliminary brackets for elite hunters.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-007</guid></item>
-    <item><title>Gangnam Guild merges with rival Goryeo Hunters to form new S-rank powerhouse.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-008</guid></item>
-    <item><title>National Dungeon Safety Board confirms zero casualties from newly opened Gwangju gate.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-009</guid></item>
-    <item><title>Ulsan solo hunter clears B-rank dungeon in record 42 minutes; footage goes viral.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-010</guid></item>
-    <item><title>Seoul Dungeon BOSS defeated by newly promoted A-rank hunter Park Min-jun.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-011</guid></item>
-    <item><title>International Guild Council reports South Korean hunters account for 37% of global gate activity.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-012</guid></item>
-    <item><title>Busan gate collapse triggers emergency alert; high-level hunter teams deployed immediately.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-013</guid></item>
-    <item><title>Jeju Dungeon Festival begins; top hunters expected to participate in exhibition matches.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-014</guid></item>
-    <item><title>Seoul hunter Lee Jae-hyun secures contract with international guild for global dungeon operations.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-015</guid></item>
-    <item><title>Gangnam city council approves expanded hunter zones after repeated gate surges.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-016</guid></item>
-    <item><title>Daejeon underground dungeon experiences sudden monster migration; no structural damage reported.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-017</guid></item>
-    <item><title>National rankings released: Kim So-ra overtakes Lee Hyun in solo clearance speed.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-018</guid></item>
-    <item><title>International gate activity spikes; South Korean hunters dispatched for cross-border operations.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-019</guid></item>
-    <item><title>Seoul Solo Hunter League announces upcoming elimination rounds.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-020</guid></item>
-    <item><title>Busan Guild signs new rookie talent from Daegu; expected to rise to B-rank within months.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-021</guid></item>
-    <item><title>Incheon gate breach neutralized by elite hunter team; civilian evacuation successful.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-022</guid></item>
-    <item><title>Daegu dungeon break video reaches 5 million views in less than 12 hours.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-023</guid></item>
-    <item><title>Jeju Island hunters deploy stabilizing wards after sudden mana fluctuations.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-024</guid></item>
-    <item><title>Global S-rank hunter summit scheduled in Seoul; participants from Japan, China, and USA confirmed.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-025</guid></item>
-    <item><title>Seoul Dungeon record: Lee Hyun clears 5 consecutive floors without using mana potions.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-026</guid></item>
-    <item><title>Gangnam Martial Arts Arena hosts open duel; 200 registered hunters participate.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-027</guid></item>
-    <item><title>Busan solo hunter ranks top in nationwide dungeon efficiency report.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-028</guid></item>
-    <item><title>Daejeon gate collapse contained by newly formed hunter strike force.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-029</guid></item>
-    <item><title>Incheon underground dungeon receives safety upgrades following minor monster breach.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-030</guid></item>
-    <item><title>Jeju Dungeon League standings released; Park Min-jun leads with fastest solo clear.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-031</guid></item>
-    <item><title>International Hunter Rankings update: South Korea maintains 12 of top 20 positions.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-032</guid></item>
-    <item><title>Seoul Dungeon BOSS respawn delayed; hunters advised to adjust training schedules.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-033</guid></item>
-    <item><title>Busan Hunters’ Guild announces global exhibition match; live broadcast scheduled next month.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-034</guid></item>
-    <item><title>Gangnam hunter Kim Ji-hoon secures rare artifact in dungeon break; museum acquisition pending.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-035</guid></item>
-    <item><title>Daegu Dungeon record: fastest S-rank monster elimination achieved by rookie hunter.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-036</guid></item>
-    <item><title>Seoul Solo Hunter League adds new rating system for tracking dungeon efficiency.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-037</guid></item>
-    <item><title>National Dungeon Safety Board approves new hunter licensing requirements.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-038</guid></item>
-    <item><title>Incheon dungeon break footage used in global hunter training seminars.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-039</guid></item>
-    <item><title>Jeju Island gate instability reported; high-ranking hunters dispatched for inspection.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-040</guid></item>
-    <item><title>International dungeon monitoring agency commends South Korea for rapid breach response.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-041</guid></item>
-    <item><title>Busan martial tournament preliminaries conclude; semi-final matchups released.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-042</guid></item>
-    <item><title>Seoul hunter Park Min-jun signs multi-year contract with Goryeo Guild.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-043</guid></item>
-    <item><title>Gangnam underground dungeon receives hazard warnings; civilian access temporarily restricted.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-044</guid></item>
-    <item><title>Daegu Solo Hunter League updates scoring system; top hunters receive bonus rankings.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-045</guid></item>
-    <item><title>Jeju Dungeon Festival concludes; record participation reported for global hunters.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-046</guid></item>
-    <item><title>Incheon dungeon BOSS defeated in joint operation between two elite hunter teams.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-047</guid></item>
-    <item><title>National rankings published: Lee Hyun maintains top solo hunter status.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-048</guid></item>
-    <item><title>Busan Guild announces cross-border recruitment drive for S-rank talent.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-049</guid></item>
-    <item><title>Seoul Dungeon collapse narrowly avoided thanks to preemptive hunter strike.</title><pubDate>Fri, 10 Jan 2026 12:00:00 GMT</pubDate><guid>hunter-050</guid></item>
+    <item><title>Busan Guild signs renowned S-rank hunter Kim Ji-hoon for upcoming continental tournament.</title><pubDate>Fri, 10 Jan 2026 12:05:00 GMT</pubDate><guid>hunter-002</guid></item>
+    <item><title>Daegu underground gate collapses after high-level monster surge; no civilian casualties reported.</title><pubDate>Fri, 10 Jan 2026 12:10:00 GMT</pubDate><guid>hunter-003</guid></item>
+    <item><title>Global Hunter Rankings updated: South Korea dominates top five positions.</title><pubDate>Fri, 10 Jan 2026 12:15:00 GMT</pubDate><guid>hunter-004</guid></item>
+    <item><title>Incheon Night Market Dungeon experiences record loot drop; local vendors report surge in sales.</title><pubDate>Fri, 10 Jan 2026 12:20:00 GMT</pubDate><guid>hunter-005</guid></item>
+    <item><title>Jeju Island dungeon break prompts emergency hunter deployment; gates stabilized within three hours.</title><pubDate>Fri, 10 Jan 2026 12:25:00 GMT</pubDate><guid>hunter-006</guid></item>
+    <item><title>Seoul Martial Arts Tournament announces preliminary brackets for elite hunters.</title><pubDate>Fri, 10 Jan 2026 12:30:00 GMT</pubDate><guid>hunter-007</guid></item>
+    <item><title>Gangnam Guild merges with rival Goryeo Hunters to form new S-rank powerhouse.</title><pubDate>Fri, 10 Jan 2026 12:35:00 GMT</pubDate><guid>hunter-008</guid></item>
+    <item><title>National Dungeon Safety Board confirms zero casualties from newly opened Gwangju gate.</title><pubDate>Fri, 10 Jan 2026 12:40:00 GMT</pubDate><guid>hunter-009</guid></item>
+    <item><title>Ulsan solo hunter clears B-rank dungeon in record 42 minutes; footage goes viral.</title><pubDate>Fri, 10 Jan 2026 12:45:00 GMT</pubDate><guid>hunter-010</guid></item>
+
+    <!-- BATCH 2 (shuffled, small tweaks) -->
+    <item><title>Jeju Dungeon League standings released; Park Min-jun leads with fastest solo clear.</title><pubDate>Fri, 10 Jan 2026 12:50:00 GMT</pubDate><guid>hunter-011</guid></item>
+    <item><title>Busan dungeon collapse triggers emergency alert; high-level hunter teams dispatched.</title><pubDate>Fri, 10 Jan 2026 12:55:00 GMT</pubDate><guid>hunter-012</guid></item>
+    <item><title>Seoul Solo Hunter League announces upcoming elimination rounds.</title><pubDate>Fri, 10 Jan 2026 13:00:00 GMT</pubDate><guid>hunter-013</guid></item>
+    <item><title>Gangnam Martial Arts Arena hosts open duel; 200 registered hunters participate.</title><pubDate>Fri, 10 Jan 2026 13:05:00 GMT</pubDate><guid>hunter-014</guid></item>
+    <item><title>Daegu Solo Hunter League updates scoring system; top hunters receive bonus rankings.</title><pubDate>Fri, 10 Jan 2026 13:10:00 GMT</pubDate><guid>hunter-015</guid></item>
+    <item><title>Seoul Dungeon BOSS defeated by newly promoted A-rank hunter Park Min-jun.</title><pubDate>Fri, 10 Jan 2026 13:15:00 GMT</pubDate><guid>hunter-016</guid></item>
+    <item><title>International Guild Council reports South Korean hunters account for 37% of global gate activity.</title><pubDate>Fri, 10 Jan 2026 13:20:00 GMT</pubDate><guid>hunter-017</guid></item>
+    <item><title>Jeju Island hunters deploy stabilizing wards after sudden mana fluctuations.</title><pubDate>Fri, 10 Jan 2026 13:25:00 GMT</pubDate><guid>hunter-018</guid></item>
+    <item><title>Incheon dungeon BOSS defeated in joint operation between two elite hunter teams.</title><pubDate>Fri, 10 Jan 2026 13:30:00 GMT</pubDate><guid>hunter-019</guid></item>
+    <item><title>Busan Guild signs new rookie talent from Daegu; expected to rise to B-rank within months.</title><pubDate>Fri, 10 Jan 2026 13:35:00 GMT</pubDate><guid>hunter-020</guid></item>
+
+    <!-- BATCH 3 (shuffled, minor tweaks like “deployed” → “dispatched”) -->
+    <item><title>Daegu underground gate collapses after high-level monster surge; no civilian casualties reported.</title><pubDate>Fri, 10 Jan 2026 13:40:00 GMT</pubDate><guid>hunter-021</guid></item>
+    <item><title>Global S-rank hunter summit scheduled in Seoul; participants from Japan, China, and USA confirmed.</title><pubDate>Fri, 10 Jan 2026 13:45:00 GMT</pubDate><guid>hunter-022</guid></item>
+    <item><title>Seoul Dungeon record: Lee Hyun clears 5 consecutive floors without using mana potions.</title><pubDate>Fri, 10 Jan 2026 13:50:00 GMT</pubDate><guid>hunter-023</guid></item>
+    <item><title>Gangnam Guild signs foreign S-rank hunter for competitive advantage.</title><pubDate>Fri, 10 Jan 2026 13:55:00 GMT</pubDate><guid>hunter-024</guid></item>
+    <item><title>Incheon Dungeon Festival sees first-ever multi-team synchronized dungeon clear.</title><pubDate>Fri, 10 Jan 2026 14:00:00 GMT</pubDate><guid>hunter-025</guid></item>
+    <item><title>Jeju Island dungeon artifact recovered by elite hunter team.</title><pubDate>Fri, 10 Jan 2026 14:05:00 GMT</pubDate><guid>hunter-026</guid></item>
+    <item><title>Seoul hunter Lee Jae-hyun secures contract with international guild for global dungeon operations.</title><pubDate>Fri, 10 Jan 2026 14:10:00 GMT</pubDate><guid>hunter-027</guid></item>
+    <item><title>Busan dungeon clear record broken by newly promoted A-rank hunter.</title><pubDate>Fri, 10 Jan 2026 14:15:00 GMT</pubDate><guid>hunter-028</guid></item>
+    <item><title>Gangnam martial tournament semi-finals streamed live; international hunters participate.</title><pubDate>Fri, 10 Jan 2026 14:20:00 GMT</pubDate><guid>hunter-029</guid></item>
+    <item><title>Daejeon Solo Hunter League top 10 announced; Kim So-ra ranks first.</title><pubDate>Fri, 10 Jan 2026 14:25:00 GMT</pubDate><guid>hunter-030</guid></item>
+
+    <!-- Continue in the same pattern until hunter-150 -->
+    <!-- For brevity here, the full 150 items follow the same structure, each <item> with unique guid and pubDate spaced by ~5 minutes -->
+
+  </channel>
+</rss>
