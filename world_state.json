@@ -1,16 +1,25 @@
 {
-  "year": 2479,
-  "known_systems": [
-    "Epsilon Eridani",
-    "Kepler-442",
-    "Andromeda Transit Hub",
-    "Tau Ceti"
+  "hunters": [
+    {"name": "Lee Hyun", "rank": "S", "specialty": "solo clears", "last_event": "Seoul Dungeon cleared"},
+    {"name": "Kim Ji-hoon", "rank": "S", "specialty": "guild leader", "last_event": "signed by Busan Guild"},
+    {"name": "Park Min-jun", "rank": "A", "specialty": "fast solo clears", "last_event": "Jeju Dungeon League leader"},
+    {"name": "Lee Jae-hyun", "rank": "A", "specialty": "international operations", "last_event": "contract with intl guild"}
   ],
-  "technologies": [
-    "Teleportation Gates",
-    "Stellar Shield Arrays",
-    "Quantum Courier Network",
-    "Autonomous Governance AIs"
+  "guilds": [
+    {"name": "Busan Guild", "members": ["Kim Ji-hoon"], "last_event": "signed new rookie from Daegu"},
+    {"name": "Gangnam Hunters", "members": [], "last_event": "merged with Goryeo Hunters"},
+    {"name": "Goryeo Hunters", "members": [], "last_event": "merged with Gangnam Hunters"}
   ],
-  "recent_events": []
+  "dungeons": [
+    {"name": "Seoul Dungeon", "level": "S-rank", "last_cleared_by": "Lee Hyun"},
+    {"name": "Jeju Island Dungeon", "level": "A-rank", "last_cleared_by": "Park Min-jun"},
+    {"name": "Incheon Night Market Dungeon", "level": "B-rank", "last_cleared_by": null},
+    {"name": "Daegu Underground Gate", "level": "B-rank", "last_event": "collapse contained"}
+  ],
+  "recent_events": [
+    "Seoul Dungeon cleared by Lee Hyun",
+    "Busan Guild signed Kim Ji-hoon",
+    "Jeju Island dungeon break stabilized",
+    "Gangnam and Goryeo Hunters merged"
+  ]
 }
